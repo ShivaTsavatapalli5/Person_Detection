@@ -17,7 +17,9 @@ This project implements real-time person detection using a TensorFlow Lite model
 - **Real-time Detection**: The system processes the camera feed in real time, detecting persons with high accuracy and low latency thanks to the Coral USB Accelerator.
 
 ## Steps to install required libraries and files
-bash
- git clone https://github.com/ShivaTsavatapalli5/Person_Detection.git
- cd Person_Detection
- ./requirements.sh
+- Note:- Make Sure that git for windows installed
+     ```bash
+     git clone https://github.com/ShivaTsavatapalli5/Person_Detection.git
+     cd Person_Detection
+     ./requirements.sh
+     ```
